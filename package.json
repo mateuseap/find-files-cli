@@ -1,0 +1,15 @@
+{
+  "name": "find-files-cli",
+  "version": "1.0.0",
+  "description": "Exemplo de CLI para procurar arquivos em uma pasta",
+  "preferGlobal": true,
+  "bin": {
+    "find-files": "./bin/find-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "keywords": [],
+  "author": "Mateus Elias",
+  "license": "MIT"
+}
