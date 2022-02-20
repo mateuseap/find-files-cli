@@ -1,6 +1,6 @@
 {
   "name": "find-files-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exemplo de CLI para procurar arquivos em uma pasta",
   "preferGlobal": true,
   "bin": {
